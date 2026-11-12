@@ -6,10 +6,12 @@
 **Prazo:** 17/11/2026
 
 ## Aluno
-
-| Nome | Matrícula | Usuário do GitHub |
-| Maria Eduarda Marques da Silva | 2423404 | MariaEM4rques |
-|  |  |  |
+____________________________________________________
+|       Nome       | Matrícula | Usuário do GitHub |
+____________________________________________________
+| Maria Eduarda    |  2423404  |   MariaEM4rques   |
+|Marques da Silva  |           |                   |
+____________________________________________________
 
 ## O cenário
 
