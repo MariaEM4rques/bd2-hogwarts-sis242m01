@@ -9,8 +9,6 @@
 ____________________________________________________
 |       Nome       | Matrícula | Usuário do GitHub |
 | Maria Eduarda    |  2423404  |   MariaEM4rques   |
-|Marques da Silva  |           |                   |
-____________________________________________________
 
 ## O cenário
 
