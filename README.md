@@ -8,7 +8,7 @@
 ## Aluno
 
 | Nome | Matrícula | Usuário do GitHub |
-| --- | --- | --- |
+| Maria Eduarda Marques da Silva | 2423404 | MariaEM4rques |
 |  |  |  |
 
 ## O cenário
